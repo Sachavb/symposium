@@ -23,7 +23,7 @@
     </div>
     <div>
       <a href="#agenda" on:click|preventDefault={scrollIntoView} class="btn btn-primary rounded-sm shadow px-16 mt-10">
-        See agenda
+        See programme
       </a>
     </div>
 
