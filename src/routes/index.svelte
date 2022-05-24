@@ -4,7 +4,7 @@
 </script>
 
 <svelte:head>
-  <title>NLESC Conference'22</title>
+  <title>International Workshop'22</title>
 </svelte:head>
 
 <div class="container mx-auto">

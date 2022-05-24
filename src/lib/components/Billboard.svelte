@@ -14,7 +14,7 @@
   <div class="px-[15%] py-10">
 
     <div class="text-4xl font-bold mt-10">
-      NLESC Conference'22
+      International Workshop
     </div>
 
     <div class="text-xl font-bold mt-5">
