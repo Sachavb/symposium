@@ -20,7 +20,7 @@
         <div class="text-xl font-bold mt-10 mb-3">
           Contact
         </div>
-        <a class="hover:underline" href="events@esciencecenter.nl">events@esciencecenter.nl</a>
+        <a class="hover:underline" href="mailto:events@esciencecenter.nl">events@esciencecenter.nl</a>
 
       </div>
       <!-- Map -->
