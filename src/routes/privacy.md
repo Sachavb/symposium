@@ -1,4 +1,4 @@
-# Police Privacy
+# Privacy Police
 
 Privacy policy
 In this Privacy Statement, Stichting Netherlands eScience Center (‘eScience Center’, or also ‘us’, ‘we’ and the like) gives information about how we process personal data.

@@ -20,7 +20,7 @@
             Terms of Service
           </a>
           <a href="/privacy" class="mr-6 text-sm text-gray-400 hover:text-gray-300">
-            Police Privacy
+            Privacy Police
           </a>
         </div>
 
