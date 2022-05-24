@@ -22,8 +22,8 @@
       Hermitage, Amsterdam
     </div>
     <div>
-      <a href="#agenda" on:click|preventDefault={scrollIntoView} class="btn btn-primary rounded-sm shadow px-16 mt-10">
-        See programme
+      <a href="#agenda" on:click|preventDefault={scrollIntoView} class="btn btn-primary rounded-sm shadow px-8 mt-10">
+        More information coming soon
       </a>
     </div>
 

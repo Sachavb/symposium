@@ -16,6 +16,12 @@
         <p class="mt-2">
           Our guests will have the opportunity to influence the discussion at this early stage, and on the international level, to draw due attention to our shared belief in sustainable research software.
         </p>
+
+        <div class="text-xl font-bold mt-10 mb-3">
+          Contact
+        </div>
+        <a class="hover:underline" href="events@esciencecenter.nl">events@esciencecenter.nl</a>
+
       </div>
       <!-- Map -->
       <div>
