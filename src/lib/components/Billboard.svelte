@@ -13,13 +13,14 @@
 >
   <div class="px-[15%] py-10">
 
-    <div class="text-4xl font-bold mt-10">
-      International Workshop
+    <div class="font-bold mt-10 bg-black bg-opacity-25 rounded-xl max-w-max p-4">
+      <div class="text-4xl">International Funders Workshop:</div>
+      <div class="text-2xl">The Future of Research Software</div>
     </div>
 
-    <div class="text-xl font-bold mt-5">
-      8 & 9 November 2022 <br>
-      Hermitage, Amsterdam
+    <div class="text-lg font-bold mt-5  bg-opacity-25 rounded-xl max-w-max p-4 bg-black">
+      8 & 9 November 2022
+       Amsterdam
     </div>
     <div>
       <a href="#agenda" on:click|preventDefault={scrollIntoView} class="btn btn-primary rounded-sm shadow px-8 mt-10">
