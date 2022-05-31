@@ -3,7 +3,7 @@
   export const [{ metadata: content }] = Object.values(import.meta.globEager("$content/agenda.md"))
 </script>
 
-<div id="agenda" class="bg-gray-800 text-white py-20 px-3">
+<div id="agenda" class="bg-[#122114] text-white py-20 px-3">
   <div class="max-w-screen-lg w-full mx-auto">
     <div class="grid gap-5 grid-cols-1 sm:grid-cols-2">
       <div>

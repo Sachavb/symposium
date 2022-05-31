@@ -18,7 +18,7 @@
     <input id="my-drawer-3" type="checkbox" class="drawer-toggle"/>
     <div class="drawer-content flex flex-col ">
       <!-- Navbar -->
-      <div class="bg-primary lg:sticky lg:top-0 z-10">
+      <div class="bg-[#19331D] lg:sticky lg:top-0 z-10">
         <div class="px-3 py-6 flex justify-between items-center h-[80px] container mx-auto ">
 
           <div class="sm:hidden">
@@ -58,7 +58,7 @@
     <div class="drawer-side ">
       <label for="my-drawer-3" class="drawer-overlay"></label>
       <!-- Sidebar content here -->
-      <ul class="menu p-4 overflow-y-auto w-80  bg-gray-800">
+      <ul class="menu p-4 overflow-y-auto w-80  bg-[#122114]">
         <div class="mb-10">
           <Logo/>
         </div>
