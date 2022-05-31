@@ -9,7 +9,7 @@
     './participants-logos/Research Foundation Flanders - FWO.png',
     './participants-logos/NWO logo - RGB.jpg',
     './participants-logos/Romania Executive Agency for Higher Education, Research, Development and Innovation Funding of Romania, UEFISCDI (Romania) .png',
-    './participants-logos/UK Research & Innovation, UKRI (UK) .png',
+    './participants-logos/UK Research and Innovation, UKRI (UK) .png',
   ]
 </script>
 
