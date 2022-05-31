@@ -12,7 +12,7 @@
     {content.title1}
   </div>
 
-  <img src={content.image1} class="my-10 w-full h-auto rounded" alt="about part 1">
+  <img src={content.image1} class="my-10 w-full max-h-[400px] object-cover object-top rounded" alt="about part 1">
   <p class="mt-8">
     The <a target="_blank" href="https://www.researchsoft.org/">Research Software Alliance (ReSA)</a> and the <a target="_blank"
                                                                                                                  href="https://www.esciencecenter.nl/">Netherlands
