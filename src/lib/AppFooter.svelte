@@ -16,12 +16,6 @@
         <div
             class="mx-auto"
         >
-          <a href="/terms" class="mr-6 text-sm text-gray-400 hover:text-gray-300">
-            Terms of Service
-          </a>
-          <a href="/privacy" class="mr-6 text-sm text-gray-400 hover:text-gray-300">
-            Privacy Police
-          </a>
         </div>
 
 <!--        Github icons and RSS-->
