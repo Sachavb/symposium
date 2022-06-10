@@ -40,32 +40,7 @@ The Netherlands eScience Center shall not be liable for any damages of any kind,
     to obtain recognition for research software and the role of research software engineers (RSEs) behind it. But the world of research is international, and
     pulling this off on a global level requires the minds of many experts across many institutions to work together.
   </p>
-  <!---->
-  <div class="mt-20">
-    <div class="font-bold text-xl">
-      {content.title2}
-    </div>
-    <div class="flex gap-8">
-      <div class="w-2/3">
 
-      <p class="mt-8">
-        The <a target="_blank" href="https://www.researchsoft.org/">Research Software Alliance (ReSA)</a> is an international community of professionals whose
-        mission is to “bring research software communities together
-        to collaborate on the advancement of the research software ecosystem.” Together, they ensure that “research software and those who develop and maintain
-        it are recognized and valued as fundamental and vital to research worldwide.”
-        <br><br>
-        The <a target="_blank" href="https://www.esciencecenter.nl/">Netherlands eScience Center</a> is a research organization that since 2012 has been
-        uniquely positioned as an independent foundation, financed by the Dutch Research Council (NWO) and the Dutch organization for IT in
-        education and research (SURF). It is the national centre with the digital skills to create innovative software solutions in academic software. The core
-        activities of the eScience Center are carried out by Research Software Engineers (RSEs) who are high-end, university-level specialists who do two
-        things: they do research using digital technologies and methodologies, and they engineer software.
-      </p>
-    </div>
-    <div class="w-1/3 mt-6">
-      <img src={content.image2} class="my-2 w-full h-auto rounded" alt="about part 2">
-    </div>
-    </div>
-  </div>
 
 
   <!---->
