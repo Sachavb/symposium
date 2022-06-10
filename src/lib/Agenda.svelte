@@ -8,13 +8,17 @@
     <div class="grid gap-5 grid-cols-1 sm:grid-cols-2">
       <div>
         <div class="text-xl font-bold">
-          Venue Information
+          About the workshop
         </div>
         <p class="mt-5">
-          This international workshop aims to set the future agenda for national and international funders to support sustainable research software.
-        </p>
-        <p class="mt-2">
-          Our guests will have the opportunity to influence the discussion at this early stage, and on the international level, to draw due attention to our shared belief in sustainable research software.
+          The Research Software Alliance (ReSA) and the Netherlands eScience Center are hosting a two-day 
+          international workshop to set the future agenda for national and international funders to support 
+          sustainable research software. As the importance of software in research has become increasingly 
+          apparent, so has the urgent need to sustain it. Funders can play a crucial role in this respect by 
+          ensuring structural support. Over the past few years, a variety of methods for sustaining research 
+          software have been explored, including improving and extending funding policies and instruments. 
+          During the workshop, funding organizations will join forces to explore how they can effectively 
+          contribute to making research software sustainable
         </p>
 
         <div class="text-xl font-bold mt-10 mb-3">
@@ -25,10 +29,7 @@
       </div>
       <!-- Map -->
       <div>
-        <iframe
-            title="Google Maps location - Hermitage in Amsterdam"
-            src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d9745.127681617034!2d4.9023951!3d52.3653079!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x225cd97f1e125444!2sHermitage%20Amsterdam!5e0!3m2!1sen!2snl!4v1652883750011!5m2!1sen!2snl"
-            width="400" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        <img src={content.image1} class="my-2 w-full h-auto rounded" alt="about part 2">
       </div>
 
     </div>

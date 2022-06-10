@@ -1,5 +1,8 @@
 ---
 menu:
+- name: About
+  url: /about
+
 - name: Programme
   url: /#agenda
 
@@ -18,6 +21,4 @@ menu:
 - name: Accommodation
   url: /accommodation
 
-- name: About
-  url: /about
 ---
