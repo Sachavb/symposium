@@ -11,6 +11,7 @@
     './participants-logos/Romania Executive Agency for Higher Education, Research, Development and Innovation Funding of Romania, UEFISCDI (Romania) .png',
     './participants-logos/UK Research and Innovation, UKRI (UK) .png',
     './participants-logos/ARDC-logo-RGB.png',
+    './participants-logos/hrzz-logo-2.png',
   ]
 </script>
 
