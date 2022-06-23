@@ -18,7 +18,7 @@
           ensuring structural support. Over the past few years, a variety of methods for sustaining research 
           software have been explored, including improving and extending funding policies and instruments. 
           During the workshop, funding organizations will join forces to explore how they can effectively 
-          contribute to making research software sustainable
+          contribute to making research software sustainable.
         </p>
 
         <div class="text-xl font-bold mt-10 mb-3">
