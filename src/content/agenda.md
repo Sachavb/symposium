@@ -9,44 +9,25 @@ image1: Hermitage2.png
 # Agenda
 
 day1:
-  - speaker: Jos van Roost
-    title: Exists
-    image: https://picsum.photos/id/1/200.webp
+  - activity: Description of the activity
     time: 12:30
-  - speaker: Name van Last
-    title: Workshop title
-    image: https://picsum.photos/id/1/200.webp
+  - activity: Name van Last
     time: hh:mm
-  - speaker: Name van Last
-    title: Workshop title
-    image: https://picsum.photos/id/1/200.webp
+  - activity: Name van Last
     time: hh:mm
-  - speaker: Name van Last
-    title: Workshop title
-    image: https://picsum.photos/id/1/200.webp
+  - activity: Name van Last
     time: hh:mm
-  - speaker: Name van Last
-    title: Workshop title
-    image: https://picsum.photos/id/1/200.webp
+  - activity: Name van Last
     time: hh:mm
-  - speaker: Name van Last
-    title: Workshop title
-    image: https://picsum.photos/id/1/200.webp
+  - activity: Name van Last
     time: hh:mm
 
 day2:
-- speaker: Name van Last
-  title: Workshop title
-  image: https://picsum.photos/id/1/200.webp
+- activity: Name van Last
   time: hh:mm
-- speaker: Name van Last
-  title: Workshop title
-  image: https://picsum.photos/id/1/200.webp
+- activity: Name van Last
   time: hh:mm
-- speaker: Name van Last
-  title: Workshop title
-  image: https://picsum.photos/id/1/200.webp
+- activity: Name van Last
   time: hh:mm
-
 
 ---

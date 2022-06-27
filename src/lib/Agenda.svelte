@@ -11,13 +11,13 @@
           About the workshop
         </div>
         <p class="mt-5">
-          The Research Software Alliance (ReSA) and the Netherlands eScience Center are hosting a two-day 
-          international workshop to set the future agenda for national and international funders to support 
-          sustainable research software. As the importance of software in research has become increasingly 
-          apparent, so has the urgent need to sustain it. Funders can play a crucial role in this respect by 
-          ensuring structural support. Over the past few years, a variety of methods for sustaining research 
-          software have been explored, including improving and extending funding policies and instruments. 
-          During the workshop, funding organizations will join forces to explore how they can effectively 
+          The Research Software Alliance (ReSA) and the Netherlands eScience Center are hosting a two-day
+          international workshop to set the future agenda for national and international funders to support
+          sustainable research software. As the importance of software in research has become increasingly
+          apparent, so has the urgent need to sustain it. Funders can play a crucial role in this respect by
+          ensuring structural support. Over the past few years, a variety of methods for sustaining research
+          software have been explored, including improving and extending funding policies and instruments.
+          During the workshop, funding organizations will join forces to explore how they can effectively
           contribute to making research software sustainable.
         </p>
 
@@ -36,8 +36,8 @@
 
     <!--  Agenda -->
 <!--    TODO: hidden for now-->
-<div class="text-3xl text-center my-20 italic">Programme coming soon...</div>
-    <div class="hidden         grid gap-5 grid-cols-1 sm:grid-cols-2 mt-20 max-w-screen-md mx-auto">
+<div class="text-3xl text-center my-20 italic">Workshop programme</div>
+    <div class="grid gap-5 grid-cols-1 sm:grid-cols-2 mt-20 max-w-screen-md mx-auto">
       <div>
         <div class="text-2xl font-bold"> Day 1</div>
         {#each content.day1 as event}
