@@ -1,6 +1,9 @@
 <script>
   import Event from "./components/Event.svelte";
+
   export const [{ metadata: content }] = Object.values(import.meta.globEager("$content/agenda.md"))
+  import Carrousel from "./components/Carrousel.svelte";
+
 </script>
 
 <div id="agenda" class="bg-[#122114] text-white py-20 px-3">
@@ -29,7 +32,11 @@
       </div>
       <!-- Map -->
       <div>
-        <img src={content.image1} class="my-2 w-full h-auto rounded" alt="about part 2">
+<!--        <img src={content.image1} class="my-2 w-full h-auto rounded" alt="about part 2">-->
+
+
+        <Carrousel/>
+
       </div>
 
     </div>
@@ -95,13 +102,13 @@
   </div>
 </div>
 
-<style>
-    /* Gray out iframe google maps*/
-    iframe {
-        border: 0;
-        filter: url("data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\'><filter id=\'grayscale\'><feColorMatrix type=\'matrix\' values=\'0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0\'/></filter></svg>#grayscale"); /* Firefox 10+ */
-        filter: gray; /* IE6-9 */
-        -webkit-filter: grayscale(99%); /* Chrome 19+ & Safari 6+ */
-        -webkit-backface-visibility: hidden; /* Fix for transition flickering */
-    }
-</style>
+<!--<style>-->
+<!--    /* Gray out iframe google maps*/-->
+<!--    iframe {-->
+<!--        border: 0;-->
+<!--        filter: url("data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\'><filter id=\'grayscale\'><feColorMatrix type=\'matrix\' values=\'0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0\'/></filter></svg>#grayscale"); /* Firefox 10+ */-->
+<!--        filter: gray; /* IE6-9 */-->
+<!--        -webkit-filter: grayscale(99%); /* Chrome 19+ & Safari 6+ */-->
+<!--        -webkit-backface-visibility: hidden; /* Fix for transition flickering */-->
+<!--    }-->
+<!--</style>-->

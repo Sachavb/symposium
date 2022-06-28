@@ -1,9 +1,9 @@
-import path from 'path';
-import { mdsvex } from 'mdsvex';
-import adapter from '@sveltejs/adapter-static';
-import preprocess from 'svelte-preprocess';
+import path from "path";
+import { mdsvex } from "mdsvex";
+import adapter from "@sveltejs/adapter-static";
+import preprocess from "svelte-preprocess";
 
-import svg from '@poppanator/sveltekit-svg'
+import svg from "@poppanator/sveltekit-svg";
 
 /** @type {import('@sveltejs/kit').Config} */
 export default {
@@ -27,33 +27,29 @@ export default {
 
   kit: {
     adapter: adapter(),
-    prerender:{
-      default: true
+    prerender: {
+      default: true,
     },
     // Override http methods in the Todo forms
     methodOverride: {
-      allowed: ['PATCH', 'DELETE']
+      allowed: ["PATCH", "DELETE"],
     },
 
     vite: {
-      plugins: [
-        svg({})
-      ],
+      plugins: [svg({})],
       resolve: {
         alias: {
           // these are the aliases and paths to them
-          '$api': path.resolve('./src/api'),
-          '$lib': path.resolve('./src/lib'),
-          '$components': path.resolve('./src/lib/components'),
-          '$assets': path.resolve('./src/assets'),
-          '$content': path.resolve('./src/content'),
-        }
+          $api: path.resolve("./src/api"),
+          $lib: path.resolve("./src/lib"),
+          $components: path.resolve("./src/lib/components"),
+          $assets: path.resolve("./src/assets"),
+          $content: path.resolve("./src/content"),
+        },
       },
       // optimizeDeps: {
       //   include: ["fuzzy"],
       // },
-    }
-  }
+    },
+  },
 };
-
-
