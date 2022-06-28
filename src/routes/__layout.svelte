@@ -18,10 +18,11 @@
     <input id="my-drawer-3" type="checkbox" class="drawer-toggle"/>
     <div class="drawer-content flex flex-col ">
       <!-- Navbar -->
-      <div class="bg-[#19331D] lg:sticky lg:top-0 z-10">
+      <div class="bg-[#19331D] lg:sticky lg:-top-[1px] z-10 bg-opacity-95
+						 backdrop-filter backdrop-blur">
         <div class="px-3 py-6 flex justify-between items-center h-[80px] container mx-auto ">
 
-          <div class="sm:hidden">
+          <div class="flex sm:hidden">
             <!-- Open Menu icon-->
             <label for="my-drawer-3" class="btn btn-square btn-ghost">
               <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" class="inline-block w-6 h-6 stroke-current text-white">
@@ -75,9 +76,9 @@
             </li>
           {/each}
         </ul>
-        <div class="mt-6">
-          <SocialIcons/>
-        </div>
+<!--        <div class="mt-6">-->
+<!--          <SocialIcons/>-->
+<!--        </div>-->
       </ul>
     </div>
   </div>

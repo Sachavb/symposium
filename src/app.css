@@ -6,7 +6,7 @@
 
 /* NPROGRESS MODIFICATIONS */
 #nprogress .bar {
-    background: #19331D !important;
+    background: #EE9315 !important;
     /*height: 10px !important;*/
 }
 
@@ -15,10 +15,17 @@
 }
 
 #nprogress .spinner-icon {
-    border-top-color: #19331D;
-    border-left-color: #19331D;
+    border-top-color: #EE9315;
+    border-left-color: #EE9315;
 }
 
 a{
     @apply text-amber-500 hover:underline
+}
+a.btn{
+    @apply hover:no-underline
+}
+
+html{
+    scroll-behavior: smooth;
 }
