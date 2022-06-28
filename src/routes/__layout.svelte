@@ -43,7 +43,7 @@
                 </li>
               {/each}
             </ul>
-            <SocialIcons/>
+<!--            <SocialIcons/>-->
           </div>
         </div>
       </div>

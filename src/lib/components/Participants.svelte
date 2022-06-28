@@ -1,26 +1,14 @@
 <script>
-
-  const participants = [
-    './participants-logos/Agence nationale de la recherche, ANR (France).jpeg',
-    './participants-logos/Deutsche Forschungsgemeinschaft, DFG (Germany).png',
-    './participants-logos/Fonds zur Förderung der wissenschaftlichen Forschung, FWF (Austria) .png',
-    './participants-logos/Forskningsråd, RCN (Norway) .png',
-    './participants-logos/Fundação para a Ciência e Tecnologia, FCT (Portugal) .jpeg',
-    './participants-logos/Research Foundation Flanders - FWO.png',
-    './participants-logos/NWO logo - RGB.jpg',
-    './participants-logos/Romania Executive Agency for Higher Education, Research, Development and Innovation Funding of Romania, UEFISCDI (Romania) .png',
-    './participants-logos/UK Research and Innovation, UKRI (UK) .png',
-    './participants-logos/ARDC-logo-RGB.png',
-    './participants-logos/hrzz-logo-2.png',
-  ]
+  export const [{ metadata: { participants } }] = Object.values(import.meta.globEager("$content/participants.md"))
 </script>
 
-
-<div id="participants" class="flex flex-wrap gap-8 container mx-auto my-20">
-  <h2 class="text-2xl font-medium mb-10">Participants so far</h2>
-  <div class="flex flex-wrap gap-8 container mx-auto">
-    {#each participants as logo}
-      <img class="max-h-[60px]" src="{logo}" alt="{logo}"/>
+<div id="participants" class="bg-white p-10 flex flex-wrap gap-10 container mx-auto my-20">
+  <h2 class="text-2xl font-medium mb-10">Confirmed participants</h2>
+  <div class="flex flex-wrap gap-10 container mx-auto">
+    {#each participants as item}
+      <a class="mt-6 hover:opacity-80" target="_blank" href={item.link}>
+        <img class="max-h-[60px]" src="{item.image}" alt="{item.image}"/>
+      </a>
     {/each}
   </div>
 </div>

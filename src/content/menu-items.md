@@ -12,13 +12,10 @@ menu:
 - name: Organizers
   url: /organizers
 
-- name: Venue
+- name: General info
   url: /venue
 
 - name: Participants
   url: /#participants
-
-- name: Accommodation
-  url: /accommodation
 
 ---
