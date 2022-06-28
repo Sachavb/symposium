@@ -36,15 +36,15 @@
 
     <!--  Agenda -->
     <div class="text-3xl text-center my-20 italic">Workshop programme</div>
-    <div class="grid gap-5 grid-cols-1 sm:grid-cols-2 mt-20 max-w-screen-md mx-auto">
+    <div class="mt-20 max-w-screen-md mx-auto mb-10">
       <div>
-        <div class="text-2xl font-bold"> Day 1</div>
+        <div class="text-2xl font-bold mb-6"> Day 1</div>
         {#each content.day1 as event}
           <Event {event}/>
         {/each}
       </div>
       <div>
-        <div class="text-2xl font-bold"> Day 2</div>
+        <div class="text-2xl font-bold mt-10 mb-6"> Day 2</div>
         {#each content.day2 as event}
           <Event {event}/>
         {/each}
