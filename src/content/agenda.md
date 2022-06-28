@@ -20,7 +20,7 @@ day1:
     activity: Keynote 1 
 
   - time: 11.00 – 11.15
-    activity: Coffee break with quick snack
+    activity: Break 
 
   - time: 11.15 – 12.15
     activity: Breakout sessions
@@ -32,7 +32,7 @@ day1:
     activity: Continue breakout sessions
 
   - time: 15.00 – 15.15
-    activity: Coffee break with snack
+    activity: Break 
 
   - time: 15.15 – 16.00
     activity: Continue breakout sessions
@@ -50,7 +50,7 @@ day1:
     activity: Participants to take a break and prepare for dinner
 
   - time: 19.15 – 20.30
-    activity: Dinner at Hermitage
+    activity: Dinner at the Kerkzaal in The Hermitage
  
 
 day2:
@@ -68,7 +68,7 @@ day2:
     activity: Breakout sessions
 
   - time: 11.15 – 11.30
-    activity: Coffee break with quick snack
+    activity: Break
 
   - time: 11.30 – 12.15
     activity: Breakout sessions
