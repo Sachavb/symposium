@@ -35,19 +35,19 @@ day1:
     activity: Coffee break with snack
 
   - time: 15.15 – 16.00
-    activity: Continue break-out sessions
+    activity: Continue breakout sessions
 
   - time: 16.00 – 16.45
     activity: Keynote 2 
 
   - time: 16.45 – 17.15
-    activity: Wrap-up and gather for canal tour
+    activity: Wrap-up, gather for canal tour and group photo
 
   - time: 17.15 – 18.45
     activity: Canal tour with drinks & snacks on board
 
   - time: 18.45 – 19.15
-    activity: Time for changing/getting ready for dinner
+    activity: Participants to take a break and prepare for dinner
 
   - time: 19.15 – 20.30
     activity: Dinner at Hermitage
@@ -56,13 +56,13 @@ day1:
 day2:
 
   - time: 08.45 – 09.00
-    activity: Coffee
+    activity: Coffee/tea
 
   - time: 09:00 – 09.15
-    activity: Introduction 2nd day – NWO and SURF
+    activity: Opening remarks for day 2
 
   - time: 09.15 – 10.00
-    activity: Keynote 3 – Fabio Kon
+    activity: Keynote 3
 
   - time: 10.00 – 11.15
     activity: Breakout sessions
@@ -77,13 +77,13 @@ day2:
     activity: Lunch
 
   - time: 13.30 – 14.15
-    activity: Keynote 4 – Carole Goble
+    activity: Keynote 4 
 
   - time: 14.15 – 15.30
     activity: Continue breakout sessions
 
   - time: 15.30 – 16.00
-    activity: Wrap-up by Joris van Eijnatten / Michelle Barker
+    activity: Closing remarks
 
   - time: 16.00 – 17.30
     activity: Drinks
