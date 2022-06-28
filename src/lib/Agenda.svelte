@@ -14,14 +14,12 @@
           About the workshop
         </div>
         <p class="mt-5">
-          The Research Software Alliance (ReSA) and the Netherlands eScience Center are hosting a two-day
-          international workshop to set the future agenda for national and international funders to support
-          sustainable research software. As the importance of software in research has become increasingly
-          apparent, so has the urgent need to sustain it. Funders can play a crucial role in this respect by
-          ensuring structural support. Over the past few years, a variety of methods for sustaining research
-          software have been explored, including improving and extending funding policies and instruments.
-          During the workshop, funding organizations will join forces to explore how they can effectively
-          contribute to making research software sustainable.
+          This international workshop aims to set the future agenda for national and international funders to support sustainable research software.
+        </p>
+        <p class="mt-5">
+          Our guests
+          will have the opportunity to influence the discussion at this early stage, and on the international level, to draw due attention to our shared belief
+          in sustainable research software.
         </p>
 
         <div class="text-xl font-bold mt-10 mb-3">
@@ -32,7 +30,7 @@
       </div>
       <!-- Map -->
       <div>
-<!--        <img src={content.image1} class="my-2 w-full h-auto rounded" alt="about part 2">-->
+        <!--        <img src={content.image1} class="my-2 w-full h-auto rounded" alt="about part 2">-->
 
 
         <Carrousel/>

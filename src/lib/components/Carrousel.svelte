@@ -16,10 +16,6 @@
     description: 'Hermitage'
 
   }, {
-    url: '/hermitage5.png',
-    description: 'Hermitage'
-
-  }, {
     url: '/hermitage6.png',
     description: 'Hermitage'
 
