@@ -31,14 +31,14 @@ organizers:
   - name: Sacha van Breugel
     desc: Event Manager
     image: https://www.esciencecenter.nl/wp-content/uploads/2020/02/IMG_1494-1-300x300.jpg
+  - name: Joris van Eijnatten
+    desc: CEO The Netherlands eScience Center
+    image: https://www.esciencecenter.nl/wp-content/uploads/2020/02/J.v.Eijnatten2-1-300x300.jpg
   - name: Carlos Martinez Ortiz
     desc: Community Manager, Natural Sciences & Engineering
     image: https://www.esciencecenter.nl/wp-content/uploads/2020/02/IMG_0369-1-300x300.jpg
   - name: Veronica Pang
     desc: Communications Advisor
     image: https://www.esciencecenter.nl/wp-content/uploads/2021/07/Pang-Veronica--300x300.png
-  - name: Joris van Eijnatten
-    desc: CEO The Netherlands eScience Center
-    image: https://www.esciencecenter.nl/wp-content/uploads/2020/02/J.v.Eijnatten2-1-300x300.jpg
 
 ---
