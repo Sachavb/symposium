@@ -8,7 +8,7 @@
     url: '/Hermitage2.png',
     description: 'Hermitage'
   }, {
-    url: '/hermitage3.png',
+    url: '/hermitageconferenceroom.jpeg',
     description: 'Hermitage'
 
   }, {
@@ -17,6 +17,10 @@
 
   }, {
     url: '/hermitage6.png',
+    description: 'Hermitage'
+    
+  }, {
+    url: '/hermitagecafe',
     description: 'Hermitage'
 
   }, {
