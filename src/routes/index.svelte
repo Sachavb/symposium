@@ -1,7 +1,7 @@
 <script lang="ts">
   import Billboard from "../lib/components/Billboard.svelte";
   import Participants from "../lib/components/Participants.svelte";
-  import Agenda from "$lib/Agenda.svelte";
+  import Agenda from "../lib/Agenda.svelte";
 </script>
 
 <svelte:head>

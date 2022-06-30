@@ -18,9 +18,9 @@
   }, {
     url: '/hermitage6.png',
     description: 'Hermitage'
-    
+
   }, {
-    url: '/hermitagecafe',
+    url: '/hermitagecafe.jpeg',
     description: 'Hermitage'
 
   }, {
@@ -51,8 +51,8 @@
 <div class="carousel-buttons flex gap-1">
   <!--  <button on:click={() => prevImage()}>◀</button>-->
   {#each gallery_items as item, i (i)}
-    <img class="select-none cursor-pointer {currentSlideItem === i && 'ring-offset-0 border-primary border '}" on:click={()=>currentSlideItem = i }
-         src={item.url} axlt={item.description} width={50} height={50}/>
+    <img class="select-none cursor-pointer alt={item.description} {currentSlideItem === i && 'ring-offset-0 border-primary border '}" on:click={()=>currentSlideItem = i }
+         src={item.url} alt={item.description} width={50} height={50}/>
   {/each}
   <!--  <button on:click={() => nextImage()}>▶</button>-->
 </div>
