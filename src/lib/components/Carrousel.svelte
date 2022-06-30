@@ -12,7 +12,7 @@
     description: 'Hermitage'
 
   }, {
-    url: '/hermitage4.png',
+    url: '/hermitage4.jpg',
     description: 'Hermitage'
 
   }, {
