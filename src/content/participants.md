@@ -46,7 +46,7 @@ participants:
   - image: /participants-logos/fapesp-logo_464.png
     link: https://fapesp.br/en
     
-  - image: /participants-logos/national-institutes-of-health-nih-logo-organization-brand-png-favpng-azJ5WtEvNeWAetkFmUUJCCU0z.jpeg
+  - image: /participants-logos/nih-logo-color-tagline-CROP.jpeg
     link: https://www.nih.gov/
     
   - image: /participants-logos/NSF_4-Color_bitmap_Logo.png
