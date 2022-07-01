@@ -18,7 +18,7 @@
       The workshop will take place at the <a target="_blank" href="https://hermitage.nl/en/">Dutch Hermitage Amsterdam</a>, a seventeenth-century 
       building and national monument. There are several car parks and hotels within walking distance of the museum. The Hermitage 
       Amsterdam is easy to reach by car and by public transport. You can also travel by boat: there is a landing right in front of 
-      the main entrance by the Amstel river. <a target="_blank" href="https://hermitage.nl/nl/plan-uw-bezoek/adres-route/">Click here</a>for more information on arriving to the Hermitage.
+      the main entrance by the Amstel river. <a target="_blank" href="https://hermitage.nl/nl/plan-uw-bezoek/adres-route/">Click here</a> for more information on arriving to the Hermitage.
 
 
         </p>
