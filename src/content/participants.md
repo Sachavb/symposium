@@ -9,12 +9,12 @@ participants:
   
   - image: participants-logos/Agence nationale de la recherche, ANR (France).jpeg
     link: https://www.anr.fr/
+    
+  - image: /participants-logos/Fonds zur Förderung der wissenschaftlichen Forschung, FWF (Austria) .png
+    link: https://www.fwf.ac.at/de/
 
   - image: /participants-logos/Deutsche Forschungsgemeinschaft, DFG (Germany).png
     link: https://www.dfg.de/
-
-  - image: /participants-logos/Fonds zur Förderung der wissenschaftlichen Forschung, FWF (Austria) .png
-    link: https://www.fwf.ac.at/de/
 
   - image: /participants-logos/Forskningsråd, RCN (Norway) .png
     link: https://www.forskningsradet.no/en/
