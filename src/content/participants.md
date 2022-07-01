@@ -33,6 +33,21 @@ participants:
     
   - image: /participants-logos/Alliance_logo_English-first.png
     link: https://alliancecan.ca/en
+    
+  - image: /participants-logos/NICISlogo.png
+    link: https://www.nicis.ac.za/
+
+  - image: /participants-logos/ScienceforAfricaFoundationlogo.png
+    link: https://scienceforafrica.foundation/
+   
+  - image: /participants-logos/LuxembourgNationalResearchFund.png
+    link: https://www.fnr.lu/
+   
+  - image: /participants-logos/fapesp-logo_464.png
+    link: https://fapesp.br/en
+    
+  - image: /participants-logos/fapesp-logo_464.png
+    link: https://fapesp.br/en
 
   - image: /participants-logos/hrzz-logo-2.png
     link: https://hrzz.hr/en/
