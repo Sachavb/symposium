@@ -73,7 +73,7 @@ participants:
   - image: /participants-logos/logo_volkswagenstiftung_svg.1200x0.webp
     link: https://www.volkswagenstiftung.de/en/foundation
     
-  - image: /participants-logos/logo-oecd.png
+  - image: /participants-logos/oecd_small-1140x530.jpeg
     link: https://www.oecd.org/netherlands/
 
 ---
