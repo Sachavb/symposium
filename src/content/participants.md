@@ -45,9 +45,6 @@ participants:
    
   - image: /participants-logos/fapesp-logo_464.png
     link: https://fapesp.br/en
-    
-  - image: /participants-logos/fapesp-logo_464.png
-    link: https://fapesp.br/en
 
   - image: /participants-logos/hrzz-logo-2.png
     link: https://hrzz.hr/en/
