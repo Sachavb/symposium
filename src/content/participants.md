@@ -32,7 +32,7 @@ participants:
     link: https://ardc.edu.au/
     
   - image: /participants-logos/Alliance_logo_English-first.png
-    link: https://hrzz.hr/en/
+    link: https://alliancecan.ca/en
 
   - image: /participants-logos/hrzz-logo-2.png
     link: https://hrzz.hr/en/
