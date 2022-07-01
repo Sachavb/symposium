@@ -1,6 +1,12 @@
 ---
 # list of participants
 participants:
+  - image: participants-logos/ReSA logo.png
+    link: https://www.researchsoft.org/#
+    
+  - image: participants-logos/netherlands-escience-center-logo-RGB.png
+    link: https://www.esciencecenter.nl/
+  
   - image: participants-logos/Agence nationale de la recherche, ANR (France).jpeg
     link: https://www.anr.fr/
 
