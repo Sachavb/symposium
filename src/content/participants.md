@@ -30,6 +30,9 @@ participants:
 
   - image: /participants-logos/ARDC-logo-RGB.png
     link: https://ardc.edu.au/
+    
+  - image: /participants-logos/Alliance_logo_English-first.png
+    link: https://hrzz.hr/en/
 
   - image: /participants-logos/hrzz-logo-2.png
     link: https://hrzz.hr/en/
