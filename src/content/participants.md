@@ -45,8 +45,29 @@ participants:
    
   - image: /participants-logos/fapesp-logo_464.png
     link: https://fapesp.br/en
+    
+  - image: /participants-logos/national-institutes-of-health-nih-logo-organization-brand-png-favpng-azJ5WtEvNeWAetkFmUUJCCU0z.jpeg
+    link: https://www.nih.gov/
+    
+  - image: /participants-logos/NSF_4-Color_bitmap_Logo.png
+    link: https://www.nsf.gov/
+    
+  - image: /participants-logos/NeSI logo.png
+    link: https://www.nesi.org.nz/
+    
+  - image: /participants-logos/Alfred_P_Sloan_Foundation_Logo.png
+    link: https://sloan.org/
 
   - image: /participants-logos/hrzz-logo-2.png
     link: https://hrzz.hr/en/
+    
+  - image: /participants-logos/Wellcome_Trust_logo.svg.png
+    link: https://wellcome.org/
+    
+  - image: /participants-logos/logo_volkswagenstiftung_svg.1200x0.webp
+    link: https://www.volkswagenstiftung.de/en/foundation
+    
+  - image: /participants-logos/logo-oecd.png
+    link: https://www.oecd.org/netherlands/
 
 ---
