@@ -8,6 +8,11 @@ image1: Hermitage2.png
 
 # Agenda
 
+day0:
+
+  - time: 19.30 – 21.30
+    activity: Meet & greet
+
 day1:
 
   - time: 09.15 – 10.00
