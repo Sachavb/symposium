@@ -75,5 +75,8 @@ participants:
     
   - image: /participants-logos/oecd_small-1140x530.jpeg
     link: https://www.oecd.org/netherlands/
+    
+  - image: /participants-logos/JSPS.png
+    link: https://www.oecd.org/netherlands/
 
 ---
