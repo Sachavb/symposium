@@ -78,5 +78,8 @@ participants:
     
   - image: /participants-logos/JSPS.png
     link: https://www.oecd.org/netherlands/
+    
+  - image: /participants-logos/new_brinlogo.png
+    link: https://www.brin.go.id/
 
 ---
