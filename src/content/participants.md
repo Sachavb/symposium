@@ -81,5 +81,8 @@ participants:
     
   - image: /participants-logos/new_brinlogo.png
     link: https://www.brin.go.id/
+    
+  - image: /participants-logos/Science Europe.jpeg
+    link: https://www.scienceeurope.org/
 
 ---
